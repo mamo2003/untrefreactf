@@ -1,0 +1,42 @@
+[
+        {
+                "id": 1,
+                "propiedad": "Ph",
+                "ubicacion": "Zona Oeste"
+        },
+        {
+                "id": 2,
+                "propiedad": "Casa 2 Ambientes",
+                "ubicacion": "Zona Este"
+        },
+        {
+                "id": 3,
+                "propiedad": "Mansion",
+                "ubicacion": "Barrio Privado"
+        },
+        {
+                "id": 4,
+                "propiedad": "Loft",
+                "ubicacion": "Zona Sur"
+        },
+        {
+                "id": 5,
+                "propiedad": "Casa 3 Ambientes",
+                "ubicacion": "Zona Centro"
+        },
+        {
+                "id": 6,
+                "propiedad": "Departamento",
+                "ubicacion": "Microcentro"
+        },
+        {
+                "id": 7,
+                "propiedad": "Casaquinta",
+                "ubicacion":"Zona Rural"
+        },
+        {
+                "id": 8,
+                "propiedad": "Departamento 3 Ambientes",
+                "ubicacion":"Zona Norte"
+        }
+]

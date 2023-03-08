@@ -1,0 +1,30 @@
+.body{
+    margin: 0;
+    font-size: 20px;
+  background-color: #71cff160;
+}
+.App {
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
+.titulo{
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  margin-top: 2rem;
+  color: #040250;
+}
+.price{
+  text-align: center;
+}
+
+.ocultar{
+  display: none;
+}
+
+@media only screen and (max-width: 577px) {
+  .titulo{text-align: left}
+span{display:none};
+}
